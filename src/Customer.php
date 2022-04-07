@@ -4,7 +4,7 @@ namespace FandyComposer\BelajarComposerLibrary;
 
 class Customer {
 
-    public function __construct(public string $name = "Guest") {        
+    public function __construct(public string $name = "Guest Customer") {        
     }
 
     public function sayHello(string $name) : string {

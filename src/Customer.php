@@ -1,6 +1,6 @@
 <?php
 
-namespace FandyComposer\ComposerLibrary;
+namespace FandyComposer\BelajarComposerLibrary;
 
 class Customer {
 

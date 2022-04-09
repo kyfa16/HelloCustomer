@@ -9,7 +9,7 @@ class Customer {
 
     public function sayHello(string $name) : string {
         return "Hello customer $name, my name is {$this->name}" . PHP_EOL . "This is new update" . PHP_EOL;
-
+            //edit on branch 2
     }
 
 }
